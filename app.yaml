@@ -1,5 +1,5 @@
 application: profound-hearth-824
-version: 1
+version: 1-0
 runtime: python27
 threadsafe: true
 api_version: 1
